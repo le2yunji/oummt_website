@@ -1,0 +1,9 @@
+# .gitignore
+/target
+*.iml
+.idea/
+/.gradle
+/out
+*.log
+*.class
+.env
