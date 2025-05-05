@@ -4,6 +4,22 @@ body {
 }
 
 img {
-    width: 100vw;
+    width: 65vw;
     height: auto;
+}
+
+
+@media (max-width: 1000px) {
+    img {
+        width: 100vw;
+        height: auto;
+    }
+}
+
+
+@media (max-width: 740px) {
+    img {
+        width: 100vw;
+        height: auto;
+    }
 }
